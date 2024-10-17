@@ -1,0 +1,478 @@
+[
+  {
+    "id": "1",
+    "name": "Tomato",
+    "category": "Vegetables",
+    "imageUrl": "assets/images/Tomato.png",
+    "price": 1.99,
+    "favorite": false,
+    "smallDescription": "Fresh red tomatoes.",
+    "bigDescription": "Freshly picked tomatoes that are perfect for salads, sauces, and many other dishes. Tomatoes are rich in vitamins C and K, and they provide a burst of flavor to any meal. Tomatoes are versatile and can be used in a wide variety of dishes. Add them to salads, sandwiches, or pasta for an extra burst of freshness. You can even roast them for a sweet, caramelized flavor.",
+    "nutrition": {
+      "kcal": 18,
+      "grams": 100,
+      "proteins": 1,
+      "fats": 0,
+      "carbs": 4
+    }
+  },
+  {
+    "id": "2",
+    "name": "Sweet Bowl",
+    "category": "Desserts",
+    "imageUrl": "assets/images/Sweet-Bowl.png",
+    "price": 3.50,
+    "favorite": true,
+    "smallDescription": "Sweet dessert bowl.",
+    "bigDescription": "A delicious bowl filled with assorted sweets, perfect for satisfying your sweet cravings. The Sweet Bowl is a combination of flavors that delight the senses. Each bite is a perfect balance of sweet and creamy textures. It's a delightful indulgence for those with a sweet tooth. Enjoy it as a dessert after meals or as a snack throughout the day.",
+    "nutrition": {
+      "kcal": 200,
+      "grams": 150,
+      "proteins": 3,
+      "fats": 10,
+      "carbs": 25
+    }
+  },
+  {
+    "id": "3",
+    "name": "Spice Mortar",
+    "category": "Main Course",
+    "imageUrl": "assets/images/Spice-Mortar.png",
+    "price": 4.99,
+    "favorite": false,
+    "smallDescription": "Assorted spices for cooking.",
+    "bigDescription": "A collection of spices that adds rich flavor to a variety of dishes. Freshly ground spices bring out the best in any dish. Use it to marinate meat, season vegetables, or add depth to your sauces. This spice mortar is a kitchen essential for those who enjoy experimenting with flavors. Each blend is handcrafted for maximum taste and aroma.",
+    "nutrition": {
+      "kcal": 5,
+      "grams": 5,
+      "proteins": 0,
+      "fats": 0,
+      "carbs": 1
+    }
+  },
+  {
+    "id": "4",
+    "name": "Soup",
+    "category": "Snacks",
+    "imageUrl": "assets/images/Soup.png",
+    "price": 2.99,
+    "favorite": true,
+    "smallDescription": "Warm bowl of soup.",
+    "bigDescription": "A comforting bowl of warm soup, perfect for chilly days. This soup is packed with nutrients and flavor, making it an excellent choice for a light meal or an appetizer. The rich broth, made with fresh ingredients, soothes the soul and warms you up from the inside out. Enjoy it with a side of bread or crackers for a satisfying snack or meal.",
+    "nutrition": {
+      "kcal": 150,
+      "grams": 250,
+      "proteins": 5,
+      "fats": 2,
+      "carbs": 20
+    }
+  },
+  {
+    "id": "5",
+    "name": "Salad",
+    "category": "Vegetables",
+    "imageUrl": "assets/images/Salad.png",
+    "price": 5.00,
+    "favorite": true,
+    "smallDescription": "Fresh garden salad.",
+    "bigDescription": "A fresh and crispy garden salad made with a mix of greens, vegetables, and a light dressing. Perfect as a side dish or a healthy meal option. This salad is packed with vitamins, fiber, and antioxidants. It’s the perfect choice for those looking for a light, nutritious meal that is both delicious and satisfying. Add some grilled chicken or tofu for a protein boost.",
+    "nutrition": {
+      "kcal": 50,
+      "grams": 150,
+      "proteins": 2,
+      "fats": 1,
+      "carbs": 8
+    }
+  },
+  {
+    "id": "6",
+    "name": "Pizza",
+    "category": "Main Course",
+    "imageUrl": "assets/images/Pizza.png",
+    "price": 9.99,
+    "favorite": false,
+    "smallDescription": "Cheesy pizza slice.",
+    "bigDescription": "A classic cheesy pizza topped with fresh tomatoes, mozzarella, and basil. Perfect for a quick bite or a full meal. Each slice is loaded with gooey cheese and flavorful toppings that are sure to satisfy any pizza lover. Enjoy with your favorite beverage and make it a party! Ideal for sharing with friends or family on a movie night.",
+    "nutrition": {
+      "kcal": 300,
+      "grams": 200,
+      "proteins": 10,
+      "fats": 15,
+      "carbs": 30
+    }
+  },
+  {
+    "id": "7",
+    "name": "Pepper",
+    "category": "Vegetables",
+    "imageUrl": "assets/images/Pepper.png",
+    "price": 1.20,
+    "favorite": false,
+    "smallDescription": "Fresh peppers.",
+    "bigDescription": "Fresh and crunchy peppers that add a hint of spice to any dish. Peppers are rich in vitamins and antioxidants, making them a healthy addition to your meals. They can be used in stir-fries, salads, or simply grilled with a bit of olive oil. Available in a variety of colors, they bring both flavor and color to the table.",
+    "nutrition": {
+      "kcal": 20,
+      "grams": 100,
+      "proteins": 1,
+      "fats": 0,
+      "carbs": 4
+    }
+  },
+  {
+    "id": "8",
+    "name": "Napoli Bread",
+    "category": "Main Course",
+    "imageUrl": "assets/images/Napoli-Bread.png",
+    "price": 2.50,
+    "favorite": true,
+    "smallDescription": "Traditional Napoli bread.",
+    "bigDescription": "Authentic Napoli-style bread with a soft, airy inside and a crispy crust. Perfect for sandwiches, as a side, or on its own with olive oil and herbs. This bread is baked fresh daily, giving it a unique and delicious flavor. It’s great for dipping in soups or pairing with cheese and charcuterie. Each bite has a perfect balance of softness and crunch.",
+    "nutrition": {
+      "kcal": 180,
+      "grams": 100,
+      "proteins": 6,
+      "fats": 2,
+      "carbs": 35
+    }
+  },
+  {
+    "id": "9",
+    "name": "Grilled Chicken",
+    "category": "Main Course",
+    "imageUrl": "assets/images/Grilled-Chicken.png",
+    "price": 6.99,
+    "favorite": true,
+    "smallDescription": "Juicy grilled chicken breast.",
+    "bigDescription": "Perfectly grilled chicken breast seasoned with herbs and spices. This healthy and flavorful dish is high in protein and pairs well with a side of vegetables. Great for meal prep, this grilled chicken is moist, tender, and full of flavor. It's a versatile dish that can be used in sandwiches, salads, or served with rice.",
+    "nutrition": {
+      "kcal": 200,
+      "grams": 150,
+      "proteins": 35,
+      "fats": 6,
+      "carbs": 0
+    }
+  },
+  {
+    "id": "10",
+    "name": "Green Apples",
+    "category": "Fruits",
+    "imageUrl": "assets/images/Green-Apples.png",
+    "price": 3.00,
+    "favorite": false,
+    "smallDescription": "Fresh green apples.",
+    "bigDescription": "Crisp and refreshing green apples that are perfect for snacking or adding to salads. Apples are high in fiber and antioxidants, making them a nutritious choice. Each bite is packed with a tangy, sweet flavor that is both refreshing and energizing. Green apples are known for their tartness, making them ideal for baking as well.",
+    "nutrition": {
+      "kcal": 52,
+      "grams": 100,
+      "proteins": 0,
+      "fats": 0,
+      "carbs": 14
+    }
+  },
+  {
+    "id": "11",
+    "name": "Onion",
+    "category": "Vegetables",
+    "imageUrl": "assets/images/Onion.png",
+    "price": 0.99,
+    "favorite": false,
+    "smallDescription": "Fresh onions.",
+    "bigDescription": "A staple in many cuisines, onions add flavor and depth to dishes. Rich in antioxidants and with a subtle sweetness, they are perfect for cooking, salads, and garnishes. Onions are versatile, used in everything from soups and stews to burgers and salads. Whether caramelized or raw, they bring a deliciously complex flavor.",
+    "nutrition": {
+      "kcal": 40,
+      "grams": 100,
+      "proteins": 1,
+      "fats": 0,
+      "carbs": 9
+    }
+  },
+  {
+    "id": "12",
+    "name": "Lemon",
+    "category": "Fruits",
+    "imageUrl": "assets/images/Lemon.png",
+    "price": 0.50,
+    "favorite": true,
+    "smallDescription": "Fresh lemons.",
+    "bigDescription": "Lemons are tart and full of vitamin C, perfect for adding a zesty flavor to dishes and drinks. Their bright acidity complements a wide range of flavors and is a favorite for cooking and garnishes. Use lemon juice in dressings, marinades, or to brighten up any dish. The zest can also be added to baked goods for extra flavor.",
+    "nutrition": {
+      "kcal": 29,
+      "grams": 100,
+      "proteins": 1,
+      "fats": 0,
+      "carbs": 9
+    }
+  },
+  {
+    "id": "13",
+    "name": "Meat",
+    "category": "Main Course",
+    "imageUrl": "assets/images/Meat.png",
+    "price": 12.99,
+    "favorite": false,
+    "smallDescription": "Freshly cut meat.",
+    "bigDescription": "High-quality meat perfect for grilling, roasting, or stewing. Rich in protein and essential nutrients, it serves as the main ingredient in a variety of hearty meals. Ideal for making steak, burgers, or a delicious roast. Meat is a versatile protein source that adds a savory depth of flavor to any dish.",
+    "nutrition": {
+      "kcal": 250,
+      "grams": 150,
+      "proteins": 26,
+      "fats": 15,
+      "carbs": 0
+    }
+  },
+  {
+    "id": "14",
+    "name": "Lime",
+    "category": "Fruits",
+    "imageUrl": "assets/images/Lime.png",
+    "price": 0.50,
+    "favorite": false,
+    "smallDescription": "Juicy limes.",
+    "bigDescription": "Limes add a tangy kick to dishes and drinks. Packed with vitamin C, they are perfect for marinades, dressings, and cocktails. They enhance the flavor of both savory and sweet dishes. Lime juice is commonly used in salsa, guacamole, and marinades for a fresh, zesty taste.",
+    "nutrition": {
+      "kcal": 20,
+      "grams": 100,
+      "proteins": 0,
+      "fats": 0,
+      "carbs": 7
+    }
+  },
+  {
+    "id": "15",
+    "name": "Garlic",
+    "category": "Vegetables",
+    "imageUrl": "assets/images/Garlic.png",
+    "price": 0.80,
+    "favorite": true,
+    "smallDescription": "Aromatic garlic cloves.",
+    "bigDescription": "Aromatic and flavorful, garlic is essential in countless recipes. Known for its health benefits, it adds depth and aroma to dishes. Garlic can be roasted, sautéed, or used raw for different flavor profiles. It is known for its immune-boosting properties and is a key ingredient in many sauces and dressings.",
+    "nutrition": {
+      "kcal": 149,
+      "grams": 100,
+      "proteins": 6,
+      "fats": 0,
+      "carbs": 33
+    }
+  },
+  {
+    "id": "16",
+    "name": "Indian Chutney",
+    "category": "Snacks",
+    "imageUrl": "assets/images/Indian-Chutney.png",
+    "price": 3.00,
+    "favorite": true,
+    "smallDescription": "Traditional Indian chutney.",
+    "bigDescription": "A delicious, spicy Indian chutney made with fresh herbs and spices. Perfect as a condiment or dip for adding flavor to snacks and main dishes. This chutney is packed with bold flavors, blending fresh herbs with spices for a unique taste. Enjoy it with samosas, kebabs, or sandwiches.",
+    "nutrition": {
+      "kcal": 60,
+      "grams": 50,
+      "proteins": 1,
+      "fats": 3,
+      "carbs": 10
+    }
+  },
+  {
+    "id": "17",
+    "name": "Dessert",
+    "category": "Desserts",
+    "imageUrl": "assets/images/Dessert.png",
+    "price": 4.50,
+    "favorite": false,
+    "smallDescription": "Sweet dessert treat.",
+    "bigDescription": "A sweet and indulgent dessert treat, perfect for satisfying cravings. Enjoy a delicious mix of flavors and textures in this delightful sweet dish. It’s a great way to end a meal on a sweet note. With each bite, you’ll experience a blend of rich flavors and creamy textures.",
+    "nutrition": {
+      "kcal": 300,
+      "grams": 120,
+      "proteins": 3,
+      "fats": 15,
+      "carbs": 40
+    }
+  },
+  {
+    "id": "18",
+    "name": "Food Plate",
+    "category": "Main Course",
+    "imageUrl": "assets/images/Food-Plate.png",
+    "price": 15.00,
+    "favorite": true,
+    "smallDescription": "Complete meal plate.",
+    "bigDescription": "A well-balanced meal on a plate with a variety of foods, providing a complete and nutritious meal. Ideal for those looking for a full course meal with different flavors and textures. Each plate is crafted with fresh ingredients, and it’s perfect for lunch or dinner.",
+    "nutrition": {
+      "kcal": 550,
+      "grams": 400,
+      "proteins": 25,
+      "fats": 20,
+      "carbs": 60
+    }
+  },
+  {
+    "id": "19",
+    "name": "Candies",
+    "category": "Snacks",
+    "imageUrl": "assets/images/Candies.png",
+    "price": 2.00,
+    "favorite": true,
+    "smallDescription": "Assorted candies.",
+    "bigDescription": "A variety of sweet and chewy candies, perfect for those with a sweet tooth. Each piece offers a different flavor, providing a delightful and fun snack option. Candies are a classic treat for all ages and are perfect for enjoying anytime, anywhere.",
+    "nutrition": {
+      "kcal": 400,
+      "grams": 100,
+      "proteins": 0,
+      "fats": 5,
+      "carbs": 80
+    }
+  },
+  {
+    "id": "20",
+    "name": "Cookie",
+    "category": "Snacks",
+    "imageUrl": "assets/images/Cookie.png",
+    "price": 1.50,
+    "favorite": false,
+    "smallDescription": "Crunchy cookies.",
+    "bigDescription": "Delicious crunchy cookies made with high-quality ingredients. Perfect as a snack or a dessert, they pair well with milk or coffee. Enjoy the rich, buttery flavor in each bite, and savor the crispy texture that melts in your mouth.",
+    "nutrition": {
+      "kcal": 300,
+      "grams": 80,
+      "proteins": 5,
+      "fats": 15,
+      "carbs": 35
+    }
+  },
+  {
+    "id": "21",
+    "name": "Salad2",
+    "category": "Vegetables",
+    "imageUrl": "assets/images/Salad2.png",
+    "price": 6.00,
+    "favorite": true,
+    "smallDescription": "Mixed greens salad.",
+    "bigDescription": "A refreshing mixed greens salad with cucumbers, tomatoes, and a light vinaigrette. Perfect as a side dish or a healthy meal option. This salad is loaded with vitamins and minerals, making it a great choice for health-conscious eaters. Add a sprinkle of cheese or nuts for extra flavor.",
+    "nutrition": {
+      "kcal": 60,
+      "grams": 150,
+      "proteins": 3,
+      "fats": 1,
+      "carbs": 8
+    }
+  },
+  {
+    "id": "22",
+    "name": "Pepper2",
+    "category": "Vegetables",
+    "imageUrl": "assets/images/Pepper2.png",
+    "price": 1.25,
+    "favorite": false,
+    "smallDescription": "Fresh colorful peppers.",
+    "bigDescription": "A selection of fresh colorful peppers, great for adding a pop of color to any dish. Peppers are versatile and can be grilled, sautéed, or enjoyed raw in salads. They bring both sweetness and heat to dishes, making them an ideal ingredient for various cuisines.",
+    "nutrition": {
+      "kcal": 22,
+      "grams": 100,
+      "proteins": 1,
+      "fats": 0,
+      "carbs": 5
+    }
+  },
+  {
+    "id": "23",
+    "name": "Egg1",
+    "category": "Main Course",
+    "imageUrl": "assets/images/Egg1.png",
+    "price": 0.50,
+    "favorite": true,
+    "smallDescription": "Fresh farm egg.",
+    "bigDescription": "A nutritious and versatile egg that can be cooked in many ways. Enjoy it scrambled, fried, boiled, or baked in your favorite recipe. Eggs are rich in protein and essential nutrients, making them an excellent choice for breakfast or any meal.",
+    "nutrition": {
+      "kcal": 70,
+      "grams": 50,
+      "proteins": 6,
+      "fats": 5,
+      "carbs": 1
+    }
+  },
+  {
+    "id": "24",
+    "name": "Egg2",
+    "category": "Main Course",
+    "imageUrl": "assets/images/Egg2.png",
+    "price": 0.50,
+    "favorite": true,
+    "smallDescription": "High-quality egg.",
+    "bigDescription": "A fresh egg sourced from free-range farms. Enjoy the rich, creamy yolk and the firm, flavorful white in various dishes. Eggs are versatile and can be a part of a healthy, balanced diet. Enjoy them in omelettes, frittatas, or as an addition to salads.",
+    "nutrition": {
+      "kcal": 70,
+      "grams": 50,
+      "proteins": 6,
+      "fats": 5,
+      "carbs": 1
+    }
+  },
+  {
+    "id": "25",
+    "name": "Leaves",
+    "category": "Vegetables",
+    "imageUrl": "assets/images/Leaves.png",
+    "price": 1.00,
+    "favorite": false,
+    "smallDescription": "Fresh green leaves.",
+    "bigDescription": "Freshly picked green leaves perfect for salads and garnishes. Rich in vitamins and minerals, they add a burst of freshness and color to your meals. Green leaves can be used in smoothies, salads, or as a topping on various dishes.",
+    "nutrition": {
+      "kcal": 15,
+      "grams": 100,
+      "proteins": 2,
+      "fats": 0,
+      "carbs": 2
+    }
+  },
+  {
+    "id": "26",
+    "name": "Ginger",
+    "category": "Vegetables",
+    "imageUrl": "assets/images/Ginger.png",
+    "price": 2.00,
+    "favorite": false,
+    "smallDescription": "Aromatic ginger root.",
+    "bigDescription": "Fresh ginger root adds a spicy, aromatic flavor to dishes. It's known for its medicinal properties and is a staple in many cuisines. Ginger can be grated into dishes, used in teas, or added to baked goods for a warm, spicy flavor.",
+    "nutrition": {
+      "kcal": 80,
+      "grams": 100,
+      "proteins": 2,
+      "fats": 0,
+      "carbs": 18
+    }
+  },
+  {
+    "id": "27",
+    "name": "Fruits Plate",
+    "category": "Fruits",
+    "imageUrl": "assets/images/Fruits-Plate.png",
+    "price": 6.50,
+    "favorite": true,
+    "smallDescription": "Fresh fruit assortment.",
+    "bigDescription": "A colorful assortment of fresh fruits perfect for a healthy snack or dessert. Includes a mix of seasonal fruits for a delicious variety. Enjoy the natural sweetness and vibrant flavors of this fruit plate. It’s a great way to add vitamins and fiber to your diet.",
+    "nutrition": {
+      "kcal": 150,
+      "grams": 200,
+      "proteins": 2,
+      "fats": 1,
+      "carbs": 35
+    }
+  },
+  {
+    "id": "28",
+    "name": "Cookie",
+    "category": "Snacks",
+    "imageUrl": "assets/images/Cookie.png",
+    "price": 1.50,
+    "favorite": false,
+    "smallDescription": "Crunchy cookies.",
+    "bigDescription": "Delicious crunchy cookies made with high-quality ingredients. Perfect as a snack or a dessert, they pair well with milk or coffee. Enjoy the rich, buttery flavor in each bite, and savor the crispy texture that melts in your mouth.",
+    "nutrition": {
+      "kcal": 300,
+      "grams": 80,
+      "proteins": 5,
+      "fats": 15,
+      "carbs": 35
+    }
+  }
+]
